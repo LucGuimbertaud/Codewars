@@ -1,7 +1,7 @@
 function likes(names) {
   let response;
   if(names.length == 0){
-  response = "no one likes this";
+  response="no one likes this";
   }else{
     if(names.length > 3){
       response = names[0] + ', ' + names[1] + ' and ' + (names.length - 2) + ' others like this';
