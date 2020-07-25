@@ -10,4 +10,5 @@ function towerBuilder(nFloors) {
     spaceCount++;
   }
   return res;
+
 }
