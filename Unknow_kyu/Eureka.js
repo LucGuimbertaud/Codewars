@@ -1,4 +1,4 @@
-     function sumDigPow(a, b) {
+function sumDigPow(a, b) {
  eureka = [];
  for(let i=a; i <=b; i++){
    digits = String(i).split('');
