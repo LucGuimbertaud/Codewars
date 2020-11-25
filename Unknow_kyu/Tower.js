@@ -1,4 +1,4 @@
-function towerBuilder(nFloors) {
+  function towerBuilder(nFloors) {
   let res = [];
   let star = "*";
   let space = " ";
