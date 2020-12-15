@@ -1,4 +1,4 @@
-       function likes(names) {
+         function likes(names) {
   let response;
   if(names.length == 0){
   response="no one likes this";
