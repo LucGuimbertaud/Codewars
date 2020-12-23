@@ -1,4 +1,4 @@
- function countSheeps(arrayOfSheep) {
+   function countSheeps(arrayOfSheep) {
    // TODO May the force be with you
   var num = 0;
   
