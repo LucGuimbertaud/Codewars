@@ -1,4 +1,4 @@
-  function productFib(prod){
+    function productFib(prod){
     var n = 0;
   var nPlus = 1;  
   while(n*nPlus < prod) {
