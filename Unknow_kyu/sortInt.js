@@ -1,4 +1,4 @@
-function descendingOrder(n){
+  function descendingOrder(n){
   let num = Array.from(String(n), String);
   num.sort(function(a, b){return b - a});
   let res = num[0];
