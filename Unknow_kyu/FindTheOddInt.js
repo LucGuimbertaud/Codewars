@@ -1,4 +1,4 @@
-function findOdd(arr) {
+  function findOdd(arr) {
   var result, num = 0;
 
   arr = arr.sort();
